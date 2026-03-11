@@ -1,0 +1,12 @@
+ID,User Story / Feature,Description,Priority,Status
+1,Sign Up,Allow users to create an account using email/phone,High,To Do
+2,Sign In,Enable secure login for registered users,High,To Do
+3,Dashboard,"Show weekly streaks, calories burnt, workouts, and levels",High,To Do
+4,Progress Tracker,"Track calories, weight, BMI, streaks, and activity progress",High,To Do
+5,AI Coach (Chatbot),Provide AI-based fitness tips and personalized suggestions,High,To Do
+6,Today's Challenges,Suggest daily and weekly challenges to users,Medium,To Do
+7,Exercise Analysis,Users upload photos/videos for AI-based performance review,Medium,To Do
+8,Community,"Users share posts, pictures, and videos with others",Medium,To Do
+9,Training Resources,"Access workout guides, diet plans, and learning materials",Low,To Do
+10,Leaderboard & Gamification,Show rankings based on streaks and challenges completed,Low,To Do
+11,Friends & Chat,Allow users to add friends and chat with them,Low,To Do
